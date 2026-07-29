@@ -4,7 +4,7 @@
 
 <img src="./image2.png" width="30%" align="right">
 
-## Hobby developer, coding for fun!
+### Hobby developer, coding for fun!
 
 <br clear="right">
 <br>
