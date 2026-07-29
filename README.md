@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="./image1.png" width="100%">
-<br>
+<img src="./image1.png" width="100%"><br>
 
 # Hobby developer!
 
-<img src="./image1.png" width="30%" align="right">
-
-<br>
-
+<img src="./image2.png" width="30%" align="right"> <br>
 
 <div align="center">
 
