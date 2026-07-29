@@ -7,10 +7,8 @@
 <h2>Hobby developer, coding for fun!</h2>
 
 <br clear="right">
-<br>
-<hr>
 
-<div align="center">
+<div align="center" style="border-top: 1px solid;">
 
 <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql" alt="Skills">
 
