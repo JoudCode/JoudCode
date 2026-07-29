@@ -5,7 +5,7 @@
 
 # Hobby developer!
 
-<img src="[https://your-pixel-gif-url.com/coding.gif](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80)" width="140" alt="Pixel coding">
+<img src="./image1.png" width="30%" align="right">
 
 <br>
 
