@@ -2,8 +2,8 @@
 
 <img src="./image1.png" width="100%"><br>
 
+<h3>Hobby developer! </h3>
 <img src="./image2.png" width="30%" align="right">
-#Hobby developer! 
 <br>
 
 <div align="center">
