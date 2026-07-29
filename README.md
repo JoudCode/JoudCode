@@ -4,9 +4,10 @@
 
 <img src="./image2.png" width="30%" align="right">
 
-<h3>Hobby developer!</h3>
+<h2>Hobby developer, coding for fun!</h2>
 
 <br clear="right">
+<hr>
 
 <div align="center">
 
