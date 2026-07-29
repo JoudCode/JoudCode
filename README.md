@@ -2,12 +2,11 @@
 
 <img src="./image1.png" width="100%"><br>
 
-<h3>Hobby developer! </h3>
 <img src="./image2.png" width="30%" align="right">
 
-<br>
-<br>
-<br>
+<h3>Hobby developer!</h3>
+
+<br clear="right">
 
 <div align="center">
 
