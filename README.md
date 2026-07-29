@@ -4,6 +4,9 @@
 
 <h3>Hobby developer! </h3>
 <img src="./image2.png" width="30%" align="right">
+
+<br>
+<br>
 <br>
 
 <div align="center">
