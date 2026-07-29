@@ -4,9 +4,11 @@
 
 <img src="./image2.png" width="30%" align="right">
 
-<h2 style="margin: 0;">Hobby developer, coding for fun!</h2>
+### Hobby developer, coding for fun!
 
-
+<br clear="right">
+<br>
+<hr>
 
 <div align="center" >
 
