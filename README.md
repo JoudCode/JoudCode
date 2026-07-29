@@ -8,9 +8,8 @@
 <tr>
 <td width="65%" valign="middle">
 
-# Hi, I'm Your Name
+# Hobby developer!
 
-### A hobby developer!
 
 </td>
 <td width="35%" align="center">
@@ -35,9 +34,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,css,html" alt="Skills">
+<img src="https://skillicons.dev/icons?i=java,js,css,html,sql" alt="Skills">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/LibGDX-0D1117?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Android_SDK-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84">
