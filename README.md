@@ -6,9 +6,7 @@
 
 <h2 style="margin: 0;">Hobby developer, coding for fun!</h2>
 
-<br clear="right">
-<br>
-<hr>
+
 
 <div align="center" >
 
