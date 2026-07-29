@@ -1,26 +1,46 @@
+<div align="center">
+
+<img src="https://your-banner-image-url.com/banner.png" width="100%" alt="Banner">
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
+
 # Hi, I'm Your Name
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80" width="100%" alt="Banner"/>
-</p>
+### A hobby developer!
 
-## About
+</td>
+<td width="35%" align="center">
 
-I’m a hobby developer.
+<img src="https://your-pixel-gif-url.com/coding.gif" width="140" alt="Pixel coding">
 
-## Featured project
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1000&q=80" width="85%" alt="Project screenshot"/>
-</p>
+---
 
-A commercial project developed independently.
+## Featured Project
 
-The source code is private and not publicly available.
+<img src="https://your-project-image-url.com/project.png" width="100%" alt="Project">
 
-## GitHub
+<br><br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160"/>
-</p>
+---
+
+## Things I know
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,css,html" alt="Skills">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LibGDX-0D1117?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Android_SDK-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84">
+<img src="https://img.shields.io/badge/Tiled-0D1117?style=for-the-badge&logoColor=white">
+
+</div>
