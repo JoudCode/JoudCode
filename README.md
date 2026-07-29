@@ -8,7 +8,7 @@
 
 <br clear="right">
 
-<div align="center" style="border-top: 1px solid;">
+<div align="center" >
 
 <img src="https://skillicons.dev/icons?i=java,js,css,html,mysql" alt="Skills">
 
